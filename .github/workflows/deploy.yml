@@ -2,7 +2,7 @@ name: Publish documentation to the ddurieux server
 on:
   push:
     branches:
-      - master
+      - main
 
 jobs:
   build:
