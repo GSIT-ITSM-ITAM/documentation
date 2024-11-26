@@ -1,0 +1,28 @@
+:root {
+    --md-primary-fg-color: #2185d0;
+    --md-primary-fg-color--light: #2185d0;
+    --md-accent-fg-color: #2185d0;
+    /* --md-default-fg-color--light: #68d3ff; */
+}
+
+h1 {
+    color: #2185d0 !important;
+    font-weight: 600 !important;
+}
+
+.md-grid {
+    max-width: 1600px; 
+}
+
+.md-search__form {
+    background-color: #3cc6ff !important;
+}
+
+.md-typeset abbr:not([title]) {
+    border-bottom: none;
+    cursor: default;
+}
+
+.md-nav__link {
+    color: black !important;
+}
